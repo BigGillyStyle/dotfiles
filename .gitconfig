@@ -2,9 +2,11 @@
 	name = Andy Pickler
 	email = andy.pickler@gmail.com
 [credential]
-	helper = 
+	helper =
 	helper = /usr/local/share/gcm-core/git-credential-manager
 [credential "https://dev.azure.com"]
 	useHttpPath = true
 [init]
 	defaultBranch = main
+[pull]
+	rebase = false
