@@ -1,9 +1,9 @@
 [user]
 	name = Andy Pickler
-	email = andy.pickler@gmail.com
+	email = andypickler@rocketauto.com
 [credential]
 	helper =
-	helper = /usr/local/share/gcm-core/git-credential-manager
+	helper = /usr/local/bin/git-credential-manager
 [credential "https://dev.azure.com"]
 	useHttpPath = true
 [init]
