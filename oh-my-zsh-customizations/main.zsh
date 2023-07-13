@@ -28,6 +28,11 @@ function gacp() {
   git push
 }
 
+function gpr() {
+  git pull
+  git remote prune origin
+}
+
 function gpri() {
   git pull
   git remote prune origin
