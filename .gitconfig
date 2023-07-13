@@ -1,8 +1,7 @@
 [user]
 	name = Andy Pickler
-	email = andypickler@rocketauto.com
+	email = andypickler@rockethomes.com
 [credential]
-	helper =
 	helper = /usr/local/bin/git-credential-manager
 [credential "https://dev.azure.com"]
 	useHttpPath = true
