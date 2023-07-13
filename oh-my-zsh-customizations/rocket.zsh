@@ -4,7 +4,6 @@ alias eapi="JWT_PRIVATE_KEY=\"`cat ~/rocket/rockethomes/jwt.private.key`\" JWT_P
 # exports
 export APOLLO_TELEMETRY_DISABLED=1
 export AWS_SHARED_CREDENTIALS_FILE=/Users/APickler/Downloads/credentials
-export PATH="/opt/homebrew/bin:/opt/homebrew/sbin:$PATH"
 export OPENSSL_CONF="$HOME/openssl.cnf"
 
 if [[ -f /etc/ssl/certs/ql-ca-bundle-openssl.crt ]]; then
