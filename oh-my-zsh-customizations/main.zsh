@@ -15,6 +15,7 @@ alias ni='npm install'
 
 # exports
 export EDITOR='vim';
+export PATH=$PATH:$HOME/go/bin
 
 # functions
 function gac() {
