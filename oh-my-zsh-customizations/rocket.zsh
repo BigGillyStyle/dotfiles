@@ -1,5 +1,4 @@
 # aliases
-alias eapi="JWT_PRIVATE_KEY=\"`cat ~/rocket/rockethomes/jwt.private.key`\" JWT_PUBLIC_KEY=\"`cat ~/rocket/rockethomes/jwt.public.key`\" sh local-dev.sh"
 
 # exports
 export APOLLO_TELEMETRY_DISABLED=1
