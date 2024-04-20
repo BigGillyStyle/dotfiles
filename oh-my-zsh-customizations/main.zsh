@@ -16,6 +16,7 @@ alias ni='npm install'
 # exports
 export EDITOR='vim';
 export PATH=$PATH:$HOME/go/bin
+export JAVA_HOME=`/usr/libexec/java_home -v 21`
 
 # functions
 function gac() {
