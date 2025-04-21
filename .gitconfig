@@ -1,10 +1,6 @@
 [user]
 	name = Andy Pickler
-	email = andypickler@rockethomes.com
-[credential]
-	helper = /usr/local/bin/git-credential-manager
-[credential "https://dev.azure.com"]
-	useHttpPath = true
+	email = andypickler@rocket.com
 [init]
 	defaultBranch = main
 [pull]
