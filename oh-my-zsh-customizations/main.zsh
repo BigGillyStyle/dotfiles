@@ -12,6 +12,7 @@
 # aliases
 alias dc='docker compose'
 alias ni='npm install'
+alias grpo='git remote prune origin'
 
 # exports
 export EDITOR='vim';
