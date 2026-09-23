@@ -15,8 +15,9 @@ alias ni='npm install'
 
 # exports
 export EDITOR='vim';
-export PATH=$PATH:$HOME/go/bin
 export ENABLE_LSP_TOOL=1
+export PATH=$PATH:$HOME/go/bin
+export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 
 # functions
 function gac() {

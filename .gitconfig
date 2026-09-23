@@ -3,8 +3,6 @@
 	email = andy.pickler@gmail.com
 [credential]
 	helper = /usr/local/bin/git-credential-manager
-[credential "https://dev.azure.com"]
-	useHttpPath = true
 [init]
 	defaultBranch = main
 [pull]
