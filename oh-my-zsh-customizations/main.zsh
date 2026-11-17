@@ -12,6 +12,7 @@
 # aliases
 alias dc='docker compose'
 alias ni='npm install'
+alias gb='git --no-pager branch'
 
 # exports
 export EDITOR='vim';
